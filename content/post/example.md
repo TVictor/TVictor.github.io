@@ -12,4 +12,4 @@ description: Welcome to my blog
 ---
 # The first post
 
-This is my first post, I will crete mor ein the future. I will also add why I decided to create this.
+This is my first post, I will create more in the future. I will also add why I decided to create this blog on this post.

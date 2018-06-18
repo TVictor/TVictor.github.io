@@ -9,8 +9,6 @@ install:
 script:
   - hugo version
   - hugo
-  - cat CNAME
-  - ls
   - cp CNAME public/CNAME
 
 deploy:
