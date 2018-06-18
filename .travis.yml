@@ -4,6 +4,8 @@ install:
   - wget https://github.com/gohugoio/hugo/releases/download/v0.38/hugo_0.38_Linux-64bit.tar.gz -O hugo.tgz
   - tar xfv hugo.tgz -C ~/_bin
   - rm hugo.tgz ~/_bin/*.md
+  - touch CNAME
+  - echo thevictor.me > CNAME
   - export PATH=$HOME/_bin:$PATH
 
 script:
