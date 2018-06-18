@@ -17,8 +17,8 @@ enableEmoji=true
 
 [params]
 	author = "Theunis Victor"
-	description = "Just a random blog for random stuff, mostly tech-related."
-	avatar = "/img/Victeck.png"
+	description = "My little tech. blog, dad blog, blog blog"
+	avatar = "/img/profile.jpg"
 	motto = "Computer Scientist, Dev Ops Enthusiast, Keen Observer, Dad."
 	enableToc = true
 	enableShareCard = true
