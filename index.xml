@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The(unis) Victor&#39;s Blog</title>
+    <link>https://thevictor.me/</link>
+    <description>Recent content on The(unis) Victor&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 18 Jun 2018 10:26:56 +0200</lastBuildDate>
+    
+	<atom:link href="https://thevictor.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Example</title>
+      <link>https://thevictor.me/post/example/</link>
+      <pubDate>Mon, 18 Jun 2018 10:26:56 +0200</pubDate>
+      
+      <guid>https://thevictor.me/post/example/</guid>
+      <description>The first post This is my first post, I will create more in the future. I will also add why I decided to create this blog on this post.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thevictor.me/404/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thevictor.me/404/</guid>
+      <description> Error 404: Page Not Found It seems that the page that you&amp;rsquo;re trying to access doesn&amp;rsquo;t exist. 😟 If you&amp;rsquo;re sure that it exists, chances are it might have been moved to a new link! You may search for it on the home page. </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://thevictor.me/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://thevictor.me/about/</guid>
+      <description>About Me 
+TBD</description>
+    </item>
+    
+  </channel>
+</rss>
