@@ -8,7 +8,7 @@ pygmentsCodeFences = true
 pygmentsUseClasses = true
 pygmentsOptions = "linenos=table"
 
-disqusShortname = "tienievictor"
+disqusShortname = "thevictor.me"
 
 enableRobotsTXT = true
 
