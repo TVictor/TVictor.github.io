@@ -9,7 +9,9 @@ install:
 script:
   - hugo version
   - hugo
-  - cp CNAME /public/CNAME
+  - cat CNAME
+  - ls
+  - cp CNAME public/CNAME
 
 deploy:
   provider: pages
