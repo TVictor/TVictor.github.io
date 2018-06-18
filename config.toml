@@ -27,7 +27,7 @@ enableEmoji=true
   	
   	#Background settings
 	enableColorBG= false
-	bgBlur = "5px"
+	bgBlur = "0px"
 	bgImage = "/img/background.jpg"
   
 	#Post-displaying Settings
