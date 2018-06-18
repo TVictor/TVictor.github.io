@@ -1,0 +1,4 @@
+baseURL = "http://thevictor.me/"
+languageCode = "en-us"
+title = "My own blog"
+theme = "dream-plus"

@@ -1,0 +1,50 @@
+baseURL = "http://thevictor.me/"
+languageCode = "en-us"
+defaultContentLanguage = "en"
+title = "The(unis) Victor's Blog"
+theme = "dream-plus"
+
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+pygmentsOptions = "linenos=table"
+
+disqusShortname = "dream-plus"
+
+enableRobotsTXT = true
+
+#Enable Hugo Emoji Conversion
+enableEmoji=true
+
+[params]
+	author = "Theunis Victor"
+	description = "Just a random blog for random stuff, mostly tech-related."
+	avatar = "/img/Victeck.png"
+	motto = "Computer Scientist, Dev Ops Enthusiast, Keen Observer, Dad."
+	enableToc = true
+	enableShareCard = true
+
+	favicon = "/img/defaultFav.ico"
+  	
+  	#Background settings
+	enableColorBG= false
+	bgBlur = "5px"
+	bgImage = "/img/background.jpg"
+  
+	#Post-displaying Settings
+	enableTags = true
+	enableCategories = true
+
+	#Cards or posts shown per page
+	itemsPerPage = 4
+
+	#Set whether you're hosting "cards" or "post"
+	contentType = "post"
+
+	#Enable Twitter Emoji
+	twitterEmoji=true
+
+[social]
+	email = "tienievictor@gmail.com"
+	github = "TVictor"
+	twitter = "TienieV" 
+	siteStartYear = 2018
